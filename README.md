@@ -10,7 +10,7 @@ HBT_MAX and HBT_MIN: Define maximum and minimum key values for the tree.
 
 - Utility Functions:
 
-new_node: Allocates memory for a new node and initializes it with the given key.
+new_node: Allocates memory for a new node and initializes it with the given key.\
 delete_tree: Recursively deletes all nodes in the tree.
 height_calc: Calculates the height of a given node.
 clockwise_rotate and counter_clockwise_rotate: Perform single rotation operations for balancing the tree.
