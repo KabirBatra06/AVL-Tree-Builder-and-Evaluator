@@ -29,5 +29,5 @@ This code is an implementation of a self-balancing binary search tree (BST) usin
 
 - File I/O Functions:
 
-create_tree_from_file: Reads instructions from a file (containing keys and operations) and builds/alters the AVL tree accordingly.
+create_tree_from_file: Reads instructions from a file (containing keys and operations) and builds/alters the AVL tree accordingly.\
 print: Writes the keys and child relations of each node in the tree to a file.
