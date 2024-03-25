@@ -15,7 +15,7 @@ This code is an implementation of a self-balancing binary search tree (BST) usin
   height_calc: Calculates the height of a given node.\
   clockwise_rotate and counter_clockwise_rotate: Perform single rotation operations for balancing the tree.\
   inorder_predecessor_prev: Finds the inorder predecessor of a given node.\
-  balancer: Balances the AVL tree after deletion operations.\
+  balancer: Balances the AVL tree after deletion operations.
 
 - Insertion Function (insert):
 
