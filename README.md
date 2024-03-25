@@ -28,6 +28,6 @@ This code is an implementation of a self-balancing binary search tree (BST) usin
   Handles cases where the node has zero, one, or two children, adjusting the tree structure and performing rotations if needed.
 
 - File I/O Functions:
-
-create_tree_from_file: Reads instructions from a file (containing keys and operations) and builds/alters the AVL tree accordingly.\
-print: Writes the keys and child relations of each node in the tree to a file.
+  
+  create_tree_from_file: Reads instructions from a file (containing keys and operations) and builds/alters the AVL tree accordingly.\
+  print: Writes the keys and child relations of each node in the tree to a file.
